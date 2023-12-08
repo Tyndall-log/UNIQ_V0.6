@@ -1,0 +1,5 @@
+노란줄 관련 계산식 정리
+	마우스 위치 -> 노란줄 위치
+		ds_list_add(music_cut_list,floor(music_wave_position+(mouse_x-LW_6)*power(2,music_wave_size))*4);
+		
+		
