@@ -5,8 +5,16 @@
 
 ## 작동 영상
 
+### 런치패드 연결
 사진을 누르면 유튜브에서 작동 영상을 보실 수 있습니다.  
 [![UNIQ for Launchpad Connector](https://img.youtube.com/vi/jp1uGXzdjB4/0.jpg)](https://www.youtube.com/watch?v=jp1uGXzdjB4)
+
+### 유니팩 불러오는 과정 및 다양한 유니팩의 자동재생
+
+> 30fps로 녹화해서 화면 LED에 끊김이 있습니다. 실제로는 끊김 없이 잘 작동합니다.  
+
+사진을 누르면 유튜브에서 작동 영상을 보실 수 있습니다.  
+[![UNIQ for Launchpad Connector](https://img.youtube.com/vi/GoufLFXJrDs/0.jpg)](https://www.youtube.com/watch?v=GoufLFXJrDs)
 
 ## 예제 빌드 파일 다운로드 (윈도우 x64)
 
@@ -20,13 +28,13 @@
 4. `자동재생`을 누르거나 `스페이스 바`를 눌러 유니팩을 재생합니다.
 5. 패드의 위치를 외웠다면, 마우스로 직접 패드를 눌러 즐겁게 연주 합니다.
 
-> 참고!
-> 런치패드가 있다면 런치패드로 연주할 수 있습니다.
-> 별도의 설정이 필요 없습니다. 컴퓨터에 연결해 바로 연주하세요!
+> 참고!  
+> 런치패드가 있다면 런치패드로 연주할 수 있습니다.  
+> 별도의 설정이 필요 없습니다. 컴퓨터에 연결해 바로 연주하세요!  
 
 ## 유니팩
 
-연주에 필요한 **유니팩**은 [**유니패드 커뮤니티**](https://cafe.naver.com/unipad)에서 다운 받으실 수 있습니다.
+연주에 필요한 **유니팩**은 [**유니패드 커뮤니티**](https://cafe.naver.com/unipad)에서 다운 받으실 수 있습니다.  
 공식 **유니팩** 구글 드라이브 링크:
 [공식 스토어](https://drive.google.com/drive/folders/0BzT510iYPiuReTN1Mno4WGhiN28?resourcekey=0-AswXl_nuw-mXg-eEpW13xw),
 [구 공식 스토어](https://drive.google.com/drive/folders/0BzT510iYPiuRZVp4WFVCNWhrbHc?resourcekey=0-yyiX_V5NL_a-PyevuHeZ3A)
